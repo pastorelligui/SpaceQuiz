@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{528A8053-DD37-3953-1748-A17561730832}") = "QuizGui", "Assembly-CSharp.csproj", "{DE4A50E6-2EC3-4444-F410-119CFF814F62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4A50E6-2EC3-4444-F410-119CFF814F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4A50E6-2EC3-4444-F410-119CFF814F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4A50E6-2EC3-4444-F410-119CFF814F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4A50E6-2EC3-4444-F410-119CFF814F62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
